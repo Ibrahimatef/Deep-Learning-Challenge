@@ -22,18 +22,21 @@ Final Output       |  Loss Curve
 ![](images/1.png)  |  ![](images/2.png)
 
 * GAN with linear layers and batch normalization
+
 Final Output       |  Loss Curve
 :-----------------:|:-----------------:
 ![](images/3.png)  |  ![](images/4.png)
 
 
 * GAN with 2D CNN layers and 2D Batch Normalization
+
 Final Output       |  Loss Curve
 :-----------------:|:-----------------:
 ![](images/5.png)  |  ![](images/6.png)
 
 
 * GAN with 2D CNN layers and Spectral Normalization
+
 Final Output       |  Loss Curve
 :-----------------:|:-----------------:
 ![](images/7.png)  |  ![](images/8.png)
