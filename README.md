@@ -16,6 +16,9 @@ To run all versions of GANs, open each notebook and run all cells
 ## Results
 Screenshots of final output from Generator Model from each version and Discriminator and Generator Loss curve
 * GAN with Linear Layers only
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/Ibrahimatef/Deep-Learning-Challenge/blob/main/images/1.png)  |  ![](https://github.com/Ibrahimatef/Deep-Learning-Challenge/blob/main/images/2.png)
 ![alt text](https://github.com/Ibrahimatef/Deep-Learning-Challenge/blob/main/images/1.png)
 ![alt text](https://github.com/Ibrahimatef/Deep-Learning-Challenge/blob/main/images/2.png)
 * GAN with linear layers and batch normalization
