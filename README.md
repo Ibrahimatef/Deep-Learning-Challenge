@@ -1,7 +1,7 @@
 
-# DEEP LEARNING CHALLENGE
+# Different Types Of GANs
 
-Implementation of Deep Learning Challenge which contains 4 versions of GANs
+Implementation of 4 versions of GANs
 * A GAN with linear layers only
 * A GAN with linear layers and batch normalization
 * A GAN with 2D CNN layers and 2D Batch Normalization
